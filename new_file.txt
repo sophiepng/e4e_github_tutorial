@@ -1,4 +1,5 @@
 Section 1
+Leslie was here!
 
 Section 2
 John made this change
@@ -8,4 +9,7 @@ Section 3
 Section 4
 
 Section 5
-John made this section
+Kate made this section
+
+Section 6
+John made this change
